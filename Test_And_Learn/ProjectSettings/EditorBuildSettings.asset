@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_MiniProjects/Google_Services_Learning/Google_Services_Scene.unity
+    guid: 7f89e68ec0adc8f489eae5063511913e
